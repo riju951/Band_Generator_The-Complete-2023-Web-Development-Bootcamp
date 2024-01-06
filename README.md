@@ -43,8 +43,6 @@ The project involves the following steps:
 
 Once the project is set up locally, access the website through the localhost URL. Click the "Generate Name" button to generate a random band name.
 
-```
-
 ```markdown
 ## Folder Structure
 
