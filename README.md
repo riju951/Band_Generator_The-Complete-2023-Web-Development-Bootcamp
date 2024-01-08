@@ -1,6 +1,6 @@
 # Band Generator Project
 
-This project was created by following the instructions provided in "The Complete 2023 Web Development Bootcamp by Angela Yu". It is a dynamic website developed using EJS, allowing users to generate a random band name by clicking a button.
+This project was created by following the instructions provided in "The Complete 2023 Web Development Bootcamp by Angela Yu". It is a dynamic website developed using EJS, allowing users to generate a random band name by clicking the button.
 
 ![image](https://github.com/riju951/Band_Generator_The-Complete-2023-Web-Development-Bootcamp/assets/82694741/72a26792-55f5-41f7-b703-3fc3c3745022)
 
